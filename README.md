@@ -9,7 +9,7 @@ Java SDK for memobird. :sunny: Morning GuGu.
 萌新咕咕号：459266 欢迎各位咕友来撩，嘤x3
 <br/>
 小纸条传送门：
-![](https://img-dragon-resume.oss-cn-beijing.aliyuncs.com/memobird.jpg)
+![](https://img-dragon-resume.oss-cn-beijing.aliyuncs.com/memobird.png)
 
 * [使用](#使用)
 * [接口](#接口)

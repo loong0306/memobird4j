@@ -19,15 +19,15 @@ public class AppTest {
     /**
      * AK
      */
-    public static final String AK = "f1763d18fd4248e38f352ccc30cbc6eb";
+    public static final String AK = "";
     /**
      * 咕咕机设备编号
      */
-    public static final String MEMOBIRDID = "43c14f46ec0ab710";
+    public static final String MEMOBIRDID = "";
     /**
      * 咕咕机用户ID
      */
-    public static final String USER_IDENTIFY = "768047";
+    public static final String USER_IDENTIFY = "";
     /**
      * 用户ID
      */

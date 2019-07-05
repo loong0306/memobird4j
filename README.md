@@ -6,7 +6,6 @@ Java SDK for memobird. :sunny: Morning GuGu.
 咕咕机JAVA-SDK-API
 [咕咕机官网提供的API文档接口](http://183.91.33.12/cache/open.memobird.cn/upload/webapi.pdf?ich_args=b3f8f94c58d93ed8d72a799aef337a62_1_0_0_4_3eb1a3da2d10ccd2a52413b9e5bda0510ec9396c8e383625dbe25006aecaa5c9_985cd986be54662fdbe4a8e44a6a5d93_1_0&ich_ip=33-25)
 
-萌新咕咕号：459266 欢迎各位咕友来撩，嘤x3
 <br/>
 小纸条传送门：
 <br/>
